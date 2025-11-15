@@ -1,2 +1,2 @@
 # Myfirstrepo
-Author = Waseeque Ahmad
+Author = Waseeque - Ahmad
