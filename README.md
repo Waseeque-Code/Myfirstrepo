@@ -1,2 +1,0 @@
-# Myfirstrepo
-Author = Waseeque - Ahmad
